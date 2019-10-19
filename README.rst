@@ -36,6 +36,7 @@ azerbaijani              3.1.5        Qarakom             Sübhan Cabbarov
 basque                   3.1.11       agonirena           Ander Goñi
 bengali                  3.1.5        kabircse            Kabir Hossain
 bulgarian                3.1.10       ivantcholakov       Ivan Tcholakov
+burmese                  3.1.5        myatviz             Min Myat Oo
 catalan                  3.1.5        Ignasimg            Ignasi Molsosa
 croatian                 3.1.5        PaleRider981        Mario Ljubicic
 czech                    3.1.11       Ruplahlava          Štěpán Postránecký
